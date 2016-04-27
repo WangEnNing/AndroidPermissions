@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidPermissions</string>
+    <string name="permission_camer_rationale">请求照相机权限。</string>
+    <string name="permission_gps_rationale">请求GPS定位权限。</string>
+    <string name="allow">允许</string>
+    <string name="refuse">拒绝</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PermissionsDispatcher.iml" filepath="$PROJECT_DIR$/../PermissionsDispatcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../library/library.iml" filepath="$PROJECT_DIR$/../library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lint/lint.iml" filepath="$PROJECT_DIR$/../lint/lint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/processor.iml" filepath="$PROJECT_DIR$/processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sample/sample.iml" filepath="$PROJECT_DIR$/../sample/sample.iml" />
+    </modules>
+  </component>
+</project>

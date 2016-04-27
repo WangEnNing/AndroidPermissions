@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="compile-testing-0.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.testing.compile/compile-testing/0.6/fbd42c033eb9acbc72e47e978d4bb80f482b476f/compile-testing-0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.testing.compile/compile-testing/0.6/ed170919f029cb82cfdc05376262dc6f1692e564/compile-testing-0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
